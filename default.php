@@ -6,6 +6,7 @@ $PluginInfo['AutoExpireDiscussions'] = array(
    'RequiredApplications' => array('Vanilla' => '2.2'),
    'MobileFriendly' => TRUE,
    'Version' => '0.2.0b',
+    'License' => 'MIT',
    'Author' => 'Paul Thomas',
    'AuthorEmail' => 'dt01pqt_pt@yahoo.com',
    'AuthorUrl' => 'http://www.vanillaforums.org/profile/x00',
